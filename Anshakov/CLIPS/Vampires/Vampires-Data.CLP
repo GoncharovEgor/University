@@ -1,0 +1,11 @@
+(deffacts Objects 
+    (Description (ID Edward)
+        (Features Corpse Yes)
+    )
+    (Description (ID Wei)
+        (Features Corpse No Bloodsucker No)
+    )
+    (Description (ID Lamia)
+        (Features Corpse No Bloodsucker Yes Bodytaker No Birdlike Yes Lightning-summoner No)
+    )
+)
